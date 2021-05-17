@@ -1,5 +1,7 @@
 Debug/
 Release/
+*/Debug
+*/Release
 KSJApiLog/
 
 KSJApi.ini
