@@ -11,3 +11,6 @@ KSJApi.ini
 
 
 
+*.db
+*.exe
+*.opendb
