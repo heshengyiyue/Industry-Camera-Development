@@ -4,10 +4,10 @@
 #include "afxdialogex.h"
 #include "timeapi.h"
 
-#include "./opencv/cv.hpp"
-#include "./opencv/highgui.h"
-#include "./opencv/cxcore.hpp"
-#pragma comment(lib, "opencv_world300.lib")
+#include "opencv.Inc/opencv/cv.hpp"
+#include "opencv.Inc/opencv/highgui.h"
+#include "opencv.Inc/opencv/cxcore.hpp"
+#pragma comment(lib, "opencv.Lib\\opencv_world300.lib")
 
 
 #include "../../../KSJApi.Inc/KSJApiCustom.h"
